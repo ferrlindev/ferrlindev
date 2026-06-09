@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm ferrlindev 👋
 
-<!--
-**ferrlindev/ferrlindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Featured Projects
+
+### [platter-rs](https://github.com/ferrlindev/platter-rs)
+A templating engine for **Scout** (`.sct`) web-crawling scripts, written in Rust.  
+Turn one parameterized template into many ready-to-run crawlers — no more repeating CSS selectors, base URLs, or depth limits.
+
+### [scout-repl](https://github.com/ferrlindev/scout-repl) (private • WIP)
+Interactive REPL for Scout scripts.  
+Video demo coming soon!
